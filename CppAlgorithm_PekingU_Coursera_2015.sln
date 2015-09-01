@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week2_枚举", "Week2_枚举", "{DE402752-FED4-4827-BC76-E83908B157B6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week2_1", "Week2_1\Week2_1.vcxproj", "{7E2AD6A2-26D4-4AA9-94B3-1E6A5F864EDD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week3_递归", "Week3_递归", "{C2581B49-D674-4DD2-8217-5D0A57DEC0F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week3_1", "Week3_1\Week3_1.vcxproj", "{AD3A1AFE-C61C-4D4D-8462-3CE9E56261B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E2AD6A2-26D4-4AA9-94B3-1E6A5F864EDD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7E2AD6A2-26D4-4AA9-94B3-1E6A5F864EDD}.Debug|Win32.Build.0 = Debug|Win32
+		{7E2AD6A2-26D4-4AA9-94B3-1E6A5F864EDD}.Release|Win32.ActiveCfg = Release|Win32
+		{7E2AD6A2-26D4-4AA9-94B3-1E6A5F864EDD}.Release|Win32.Build.0 = Release|Win32
+		{AD3A1AFE-C61C-4D4D-8462-3CE9E56261B0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AD3A1AFE-C61C-4D4D-8462-3CE9E56261B0}.Debug|Win32.Build.0 = Debug|Win32
+		{AD3A1AFE-C61C-4D4D-8462-3CE9E56261B0}.Release|Win32.ActiveCfg = Release|Win32
+		{AD3A1AFE-C61C-4D4D-8462-3CE9E56261B0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7E2AD6A2-26D4-4AA9-94B3-1E6A5F864EDD} = {DE402752-FED4-4827-BC76-E83908B157B6}
+		{AD3A1AFE-C61C-4D4D-8462-3CE9E56261B0} = {C2581B49-D674-4DD2-8217-5D0A57DEC0F1}
+	EndGlobalSection
+EndGlobal
